@@ -7,4 +7,4 @@ User-agent: *
 
 Allow: /
 
-Sitemap: https://wyrlight.com/Portfolio/sitemap.xml
+Sitemap: https://wyrlight.com/portfolio/sitemap.xml
